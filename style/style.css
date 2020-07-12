@@ -1,10 +1,10 @@
 @font-face{
     font-family: 'Romanica';
-    src: url("../Fuente/Romanica.ttf");
+    src: url("../fonts/romanica.ttf");
 }
 
 body {     
-    background-image: url("../Imagenes/pizzaFondo.jpg");
+    background-image: url("../images/pizzaFondo.jpg");
     background-size: cover;
     font-family: 'Romanica';
     font-size: large;
